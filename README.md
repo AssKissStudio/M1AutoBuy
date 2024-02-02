@@ -1,6 +1,6 @@
 # M1AutoBuy
 ## About script
-#### AutoBuy is the first public automatization script for M1. With it you can not waste your time waiting for the right item at a favorable price for you, the script will do everything for you (and resell, if necessary).
+#### AutoBuy is the first public automation script for M1. With it you can not waste your time waiting for the right item at a favorable price for you, the script will do everything for you (and resell, if necessary).
 ## System Requirements
 #### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
 #### Internet connection required
