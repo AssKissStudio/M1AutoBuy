@@ -19,4 +19,5 @@
 <img width="927" alt="Autobuy" src="https://github.com/AssKissStudio/M1AutoBuy/assets/156083318/a7a5b346-1dde-4bed-a8d8-16671253bc4b">
 ### Multi-version;
 #### 5. Enter category of the item you need to buy(all hints you can see in the script window)
-#### 6. Choose server polling time
+#### 6. Enter the number of bids to track
+#### 7. Choose server polling time
