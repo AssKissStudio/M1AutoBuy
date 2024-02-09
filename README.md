@@ -18,6 +18,6 @@
 **The prototype ID can be found in the link on the item's market page. E.g.(https://m...e.com/market/thing/<prototype_ID>)
 <img width="927" alt="Autobuy" src="https://github.com/AssKissStudio/M1AutoBuy/assets/156083318/a7a5b346-1dde-4bed-a8d8-16671253bc4b">
 ### Multi-version;
-#### 5. Enter category of the item you need to buy(all hints you can see in the script window)
-#### 6. Enter the number of bids to track
+#### 5. Enter the number of bids to track
+#### 6. Enter category of the item you need to buy(all hints you can see in the script window)
 #### 7. Choose server polling time
