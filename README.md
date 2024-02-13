@@ -2,7 +2,7 @@
 ## About script
 #### AutoBuy is the first public automation script for M1. With it you can not waste your time waiting for the right item at a favorable price for you, the script will do everything for you (and resell, if necessary). AssKiss Studio is not responsible for any improper use of the script
 ## System Requirements
-### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
+### OS: Windows 7/8/10/11
 ### Internet connection required
 ## Config
 ### What can be changed in config.txt:
